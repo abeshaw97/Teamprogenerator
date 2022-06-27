@@ -17,6 +17,7 @@ To run this app make sure to clone this repository(https or ssh key) and downloa
 ## Usage 
 Use inquirer from your command line to answer questions about your project.
 
+watch video-(https://drive.google.com/file/d/13g-NHBO4HjOG1Q4zQP0nat_EcyWwDSWo/view?usp=sharing)
 
 ## Tests
 Run `npm test` to start the app and,run not only a test but lead to generating your HTML Document
