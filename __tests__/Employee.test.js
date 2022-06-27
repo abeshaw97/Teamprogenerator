@@ -3,7 +3,7 @@ const Employee = require('../lib/Employee');
 
 // creates employee object 
 test('creates an employee object', () => {
-    const employee = new Employee('');
+    const employee = new Employee('Abe',26,'shawabra@msu.edu');
 
     expect(employee.name).toEqual(expect.any(String));
     expect(employee.id).toEqual(expect.any(Number));
@@ -38,4 +38,3 @@ test('gets role of employee', () => {
     expect(employee.getRole()).toEqual("Employee");
 }); 
 
-module .exports =function(){};
